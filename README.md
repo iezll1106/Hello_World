@@ -1,20 +1,22 @@
 # Overview
 
-In this Week01 Actitvity Hello World Module I did use HTML and CSS.
+In this Week01 Activity "Hello World" Module, I used HTML and CSS to create a Hello World webpage.
 
-{Describe your purpose for creating this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+The purpose of creating this software is to demonstrate basic skills in HTML structure, page styling using CSS, and practicing good coding practices for web development. It also serves as a way to introduce myself in a creative format.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+- **Code Editor**: VS Code
+- **Browser**: Chrome / Firefox
+- **File System**: Local
+- **Operating System**: (e.g., Windows 10 / macOS / Linux)
 
 {Describe the programming language that you used}
 
-# Useful Websites
+- **HTML5**
+- **CSS3**
 
 {Make a list of websites that you found helpful in this project}
 * [Web Site Name](http://url.link.goes.here)

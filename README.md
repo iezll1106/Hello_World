@@ -13,11 +13,11 @@ The purpose of creating this software is to demonstrate basic skills in HTML str
 - **File System**: Local
 - **Operating System**: (e.g., Windows 10 / macOS / Linux)
 
-{Describe the programming language that you used}
+# Programming Languages Used
 
 - **HTML5**
 - **CSS3**
 
-{Make a list of websites that you found helpful in this project}
+Make a list of websites that you found helpful in this project
 * [Web Site Name](http://url.link.goes.here)
 * [Web Site Name](http://url.link.goes.here)

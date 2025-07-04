@@ -1,8 +1,6 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
-{Provide a description of your software}
+In this Week01 Actitvity Hello World Module I did use HTML and CSS.
 
 {Describe your purpose for creating this software.}
 

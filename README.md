@@ -19,5 +19,5 @@ The purpose of creating this software is to demonstrate basic skills in HTML str
 - **CSS3**
 
 Make a list of websites that you found helpful in this project
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* www.w3schools.com https://www.w3schools.com/html/
+* www.w3schools.com https://www.w3schools.com/css/

@@ -9,7 +9,7 @@ The purpose of creating this software is to demonstrate basic skills in HTML str
 # Development Environment
 
 - **Code Editor**: VS Code
-- **Browser**: Chrome / Firefox
+- **Browser**: Google Chrome / Firefox / Microsoft Edge
 - **File System**: Local
 - **Operating System**: (e.g., Windows 10 / macOS / Linux)
 

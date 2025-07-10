@@ -4,8 +4,6 @@ In this Week01 Activity "Hello World" Module, I used HTML and CSS to create a He
 
 The purpose of creating this software is to demonstrate basic skills in HTML structure, page styling using CSS, and practicing good coding practices for web development. It also serves as a way to introduce myself in a creative format.
 
-[Software Demo Video](http://youtube.link.goes.here)
-
 # Development Environment
 
 - **Code Editor**: VS Code
